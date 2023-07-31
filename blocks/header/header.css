@@ -5,7 +5,7 @@ header .nav-wrapper {
   z-index: 2;
   position: fixed;
   border-bottom: 1px solid var(--highlight-background-color);
-  background-image: url("/icons/Logo_Carvelo.svg");
+  background-image: url("/icons/securbank_logo.svg");
   background-repeat: no-repeat;
   background-size: 100px;
   background-position-y:center;
